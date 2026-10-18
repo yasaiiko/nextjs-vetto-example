@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-vetto-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Block disposable and fake signup emails in Next.js (App Router, Server Actions) with Vetto.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}
